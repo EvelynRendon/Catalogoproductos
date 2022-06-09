@@ -1,0 +1,27 @@
+.row {
+    background-color: pink ;
+    margin-left: 500px;
+    margin-right: 500px;
+    box-sizing: content-box;
+    align-items: center;
+    text-align: center;
+    border: radius 10px; 
+}
+.producto-container{
+    padding-top: 20px;
+    box-sizing: content-box;
+    align-items: center;
+    text-align: center;
+    border: 1px solid purple;
+    background-color: plum;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input::placeholder {
+    color: black;
+}
+
+body{
+    background-color: aqua;
+}
